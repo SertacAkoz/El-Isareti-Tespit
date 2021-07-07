@@ -1,0 +1,6 @@
+0 = C
+1 = Yumruk
+2 = L
+3 = Okay
+4 = Avuç
+5 = Barış
